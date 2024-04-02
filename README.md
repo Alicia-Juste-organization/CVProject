@@ -13,6 +13,7 @@ This project is using JIRA tool for project management and defect traking follow
 ## DEMO VIDEO
 This project includes a Demo Video of each functionallity developed.
 * [DEMO VIDEOS](/demo/)
+
 ## TEST STRATEGY
 This project adopts BDD Methodology for testing.
 
@@ -48,6 +49,9 @@ Functional and Regression test results and report for each project release.
 #### Release version 1.1
 * [Functional Test Results and Bug Report 1.1](/test-results/functional-test-results-and-bug-report-release-1.1.pdf)
 * [Regression Test Results 1.1](/test-results/regression-test-results-release-1.1.pdf)
+#### Release version 1.1
+* [Functional Test Results and Bug Report 1.1](/test-results/functional-test-results-and-bug-report-release-1.2.pdf)
+* [Regression Test Results 1.1](/test-results/regression-test-results-release-1.2.pdf)
 
 ## AUTHOR
 Alicia Juste Gilabert, QA Engineer
